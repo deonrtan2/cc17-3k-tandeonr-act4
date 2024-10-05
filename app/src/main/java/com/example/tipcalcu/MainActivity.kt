@@ -1,4 +1,4 @@
-package com.example.tipcalculator
+package com.example.tipcalcu
 
 import android.os.Bundle
 import android.widget.*
